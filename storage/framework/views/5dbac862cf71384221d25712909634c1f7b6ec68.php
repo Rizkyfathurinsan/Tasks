@@ -1,0 +1,1 @@
+<?php /**PATH D:\xamp\htdocs\tasks\resources\views/list.blade.php ENDPATH**/ ?>
